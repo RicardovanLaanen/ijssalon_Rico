@@ -3,4 +3,4 @@ def presenteer(dictionary, totaal):
         print(f"{key} : {value} euro")
 
     print("==========================")
-    print(f"totaal : {totaal} euro")
+    print(f"Totaal : {totaal} euro")
